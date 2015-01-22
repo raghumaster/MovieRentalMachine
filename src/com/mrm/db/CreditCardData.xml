@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<creditcards>
+    <card>
+        <number>50000000</number>
+        <zipcode>90007</zipcode>
+    </card>
+    <card>
+        <number>40000000</number>
+        <zipcode>90815</zipcode>
+    </card>
+    <card>
+        <number>6000000012</number>
+        <zipcode>90815</zipcode>
+    </card>
+    <card>
+        <number>51000000</number>
+        <zipcode>90815</zipcode>
+    </card>
+    <card>
+        <number>42000000248</number>
+        <zipcode>90815</zipcode>
+    </card>
+    <card>
+        <number>35000001234</number>
+        <zipcode>90815</zipcode>
+    </card>
+    <card>
+        <number>45000003545</number>
+        <zipcode>90035</zipcode>
+    </card>
+    <card>
+        <number>7500002929</number>
+        <zipcode>90001</zipcode>
+    </card>
+    <card>
+        <number>242424242424</number>
+        <zipcode>90535</zipcode>
+    </card>
+    <card>
+        <number>353500453500</number>
+        <zipcode>90456</zipcode>
+    </card>
+</creditcards>

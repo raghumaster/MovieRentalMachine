@@ -1,0 +1,1717 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T00:02:27</date>
+  <millis>1417766547276</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T00:02:27</date>
+  <millis>1417766547292</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T14:10:33</date>
+  <millis>1417817433808</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T14:10:33</date>
+  <millis>1417817433828</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T14:12:26</date>
+  <millis>1417817546015</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T14:12:26</date>
+  <millis>1417817546036</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T14:14:53</date>
+  <millis>1417817693011</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T14:14:53</date>
+  <millis>1417817693033</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T14:59:31</date>
+  <millis>1417820371623</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T14:59:31</date>
+  <millis>1417820371639</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T15:02:41</date>
+  <millis>1417820561572</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T15:02:41</date>
+  <millis>1417820561586</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T15:11:32</date>
+  <millis>1417821092710</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T15:11:32</date>
+  <millis>1417821092723</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T15:13:19</date>
+  <millis>1417821199903</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T15:13:19</date>
+  <millis>1417821199915</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T15:27:40</date>
+  <millis>1417822060370</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T15:27:40</date>
+  <millis>1417822060383</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T15:28:16</date>
+  <millis>1417822096821</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T15:28:16</date>
+  <millis>1417822096835</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T15:29:44</date>
+  <millis>1417822184059</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T15:29:44</date>
+  <millis>1417822184072</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T15:30:36</date>
+  <millis>1417822236503</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T15:30:36</date>
+  <millis>1417822236519</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T16:13:57</date>
+  <millis>1417824837414</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T16:13:57</date>
+  <millis>1417824837469</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T16:15:11</date>
+  <millis>1417824911396</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T16:15:11</date>
+  <millis>1417824911413</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T18:57:43</date>
+  <millis>1417834663134</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T18:57:43</date>
+  <millis>1417834663146</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T19:02:07</date>
+  <millis>1417834927417</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T19:02:07</date>
+  <millis>1417834927431</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T19:02:42</date>
+  <millis>1417834962481</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T19:02:42</date>
+  <millis>1417834962494</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T19:31:31</date>
+  <millis>1417836691891</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T19:31:31</date>
+  <millis>1417836691906</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T20:01:06</date>
+  <millis>1417838466012</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T20:01:06</date>
+  <millis>1417838466024</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T20:13:13</date>
+  <millis>1417839193193</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T20:13:13</date>
+  <millis>1417839193206</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T20:13:34</date>
+  <millis>1417839214457</millis>
+  <sequence>3</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>addNewMoviesToXML</method>
+  <thread>16</thread>
+  <message>New Movies Added</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T20:23:42</date>
+  <millis>1417839822397</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T20:23:42</date>
+  <millis>1417839822409</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T20:30:21</date>
+  <millis>1417840221062</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T20:30:21</date>
+  <millis>1417840221077</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T23:00:00</date>
+  <millis>1417849200881</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:00:00</date>
+  <millis>1417849200894</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T23:02:02</date>
+  <millis>1417849322005</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:02:02</date>
+  <millis>1417849322018</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T23:05:13</date>
+  <millis>1417849513304</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:05:13</date>
+  <millis>1417849513323</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T23:11:46</date>
+  <millis>1417849906086</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:11:46</date>
+  <millis>1417849906100</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:12:16</date>
+  <millis>1417849936156</millis>
+  <sequence>3</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>16</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:12:16</date>
+  <millis>1417849936159</millis>
+  <sequence>4</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:12:18</date>
+  <millis>1417849938752</millis>
+  <sequence>6</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>16</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:12:18</date>
+  <millis>1417849938755</millis>
+  <sequence>7</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T23:13:34</date>
+  <millis>1417850014782</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:13:34</date>
+  <millis>1417850014796</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T23:13:56</date>
+  <millis>1417850036273</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:13:56</date>
+  <millis>1417850036288</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T23:14:30</date>
+  <millis>1417850070094</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:14:30</date>
+  <millis>1417850070107</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T23:14:38</date>
+  <millis>1417850078323</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:14:38</date>
+  <millis>1417850078338</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T23:32:06</date>
+  <millis>1417851126339</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:32:06</date>
+  <millis>1417851126353</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T23:33:02</date>
+  <millis>1417851182828</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:33:02</date>
+  <millis>1417851182841</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T23:33:50</date>
+  <millis>1417851230499</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:33:50</date>
+  <millis>1417851230512</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-05T23:36:31</date>
+  <millis>1417851391319</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-05T23:36:31</date>
+  <millis>1417851391332</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-06T00:12:18</date>
+  <millis>1417853538932</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-06T00:12:18</date>
+  <millis>1417853538946</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-06T00:12:26</date>
+  <millis>1417853546739</millis>
+  <sequence>2</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>16</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-06T00:12:26</date>
+  <millis>1417853546745</millis>
+  <sequence>3</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-06T00:13:04</date>
+  <millis>1417853584230</millis>
+  <sequence>5</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>16</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-06T00:13:04</date>
+  <millis>1417853584233</millis>
+  <sequence>6</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-06T00:17:47</date>
+  <millis>1417853867180</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-06T00:17:47</date>
+  <millis>1417853867195</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-06T00:23:10</date>
+  <millis>1417854190668</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-06T00:23:10</date>
+  <millis>1417854190683</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-06T00:23:29</date>
+  <millis>1417854209424</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-06T00:23:29</date>
+  <millis>1417854209440</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-06T00:23:51</date>
+  <millis>1417854231979</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-06T00:23:51</date>
+  <millis>1417854231994</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-08T20:28:46</date>
+  <millis>1418099326727</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-08T20:28:46</date>
+  <millis>1418099326736</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-08T20:28:46</date>
+  <millis>1418099326793</millis>
+  <sequence>2</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-08T20:28:46</date>
+  <millis>1418099326798</millis>
+  <sequence>3</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-08T20:28:57</date>
+  <millis>1418099337087</millis>
+  <sequence>5</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-08T20:28:57</date>
+  <millis>1418099337142</millis>
+  <sequence>8</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-08T20:29:00</date>
+  <millis>1418099340765</millis>
+  <sequence>12</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>updateTransactions</method>
+  <thread>16</thread>
+  <message>Transaction details updated</message>
+</record>
+<record>
+  <date>2014-12-08T20:29:05</date>
+  <millis>1418099345083</millis>
+  <sequence>17</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>updateTransactions</method>
+  <thread>16</thread>
+  <message>Transaction details updated</message>
+</record>
+<record>
+  <date>2014-12-08T20:29:14</date>
+  <millis>1418099354694</millis>
+  <sequence>21</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>updateTransactions</method>
+  <thread>16</thread>
+  <message>Transaction details updated</message>
+</record>
+<record>
+  <date>2014-12-08T20:29:21</date>
+  <millis>1418099361964</millis>
+  <sequence>23</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>16</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-08T20:29:21</date>
+  <millis>1418099361966</millis>
+  <sequence>24</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-08T20:29:21</date>
+  <millis>1418099361975</millis>
+  <sequence>25</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>16</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-08T20:29:21</date>
+  <millis>1418099361977</millis>
+  <sequence>26</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-09T13:38:35</date>
+  <millis>1418161115354</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-09T13:38:35</date>
+  <millis>1418161115361</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-09T13:38:35</date>
+  <millis>1418161115404</millis>
+  <sequence>2</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-09T13:38:35</date>
+  <millis>1418161115406</millis>
+  <sequence>3</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-09T15:04:47</date>
+  <millis>1418166287280</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-09T15:04:47</date>
+  <millis>1418166287288</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-09T15:04:47</date>
+  <millis>1418166287330</millis>
+  <sequence>2</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-09T15:04:47</date>
+  <millis>1418166287332</millis>
+  <sequence>3</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-09T15:11:41</date>
+  <millis>1418166701575</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-09T15:11:41</date>
+  <millis>1418166701582</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-09T15:11:41</date>
+  <millis>1418166701623</millis>
+  <sequence>2</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-09T15:11:41</date>
+  <millis>1418166701626</millis>
+  <sequence>3</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-12T13:53:16</date>
+  <millis>1418421196707</millis>
+  <sequence>0</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:53:16</date>
+  <millis>1418421196781</millis>
+  <sequence>1</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:53:17</date>
+  <millis>1418421197116</millis>
+  <sequence>2</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>1</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:53:17</date>
+  <millis>1418421197134</millis>
+  <sequence>3</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>1</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:56:29</date>
+  <millis>1418421389124</millis>
+  <sequence>6</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:56:29</date>
+  <millis>1418421389409</millis>
+  <sequence>9</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:56:42</date>
+  <millis>1418421402511</millis>
+  <sequence>13</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>updateTransactions</method>
+  <thread>16</thread>
+  <message>Transaction details updated</message>
+</record>
+<record>
+  <date>2014-12-12T13:57:03</date>
+  <millis>1418421423763</millis>
+  <sequence>18</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>updateTransactions</method>
+  <thread>16</thread>
+  <message>Transaction details updated</message>
+</record>
+<record>
+  <date>2014-12-12T13:57:23</date>
+  <millis>1418421443791</millis>
+  <sequence>24</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>updateTransactions</method>
+  <thread>16</thread>
+  <message>Transaction details updated</message>
+</record>
+<record>
+  <date>2014-12-12T13:57:53</date>
+  <millis>1418421473855</millis>
+  <sequence>26</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>16</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:57:53</date>
+  <millis>1418421473856</millis>
+  <sequence>27</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:57:54</date>
+  <millis>1418421474146</millis>
+  <sequence>30</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:58:19</date>
+  <millis>1418421499380</millis>
+  <sequence>32</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>16</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:58:19</date>
+  <millis>1418421499381</millis>
+  <sequence>33</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:58:19</date>
+  <millis>1418421499393</millis>
+  <sequence>34</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>16</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:58:19</date>
+  <millis>1418421499394</millis>
+  <sequence>35</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:58:32</date>
+  <millis>1418421512565</millis>
+  <sequence>36</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>16</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:58:32</date>
+  <millis>1418421512566</millis>
+  <sequence>37</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:58:32</date>
+  <millis>1418421512602</millis>
+  <sequence>40</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:58:34</date>
+  <millis>1418421514333</millis>
+  <sequence>42</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>16</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:58:34</date>
+  <millis>1418421514334</millis>
+  <sequence>43</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:58:34</date>
+  <millis>1418421514346</millis>
+  <sequence>44</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getCreditCardData</method>
+  <thread>16</thread>
+  <message>Credit Card Data retrieved</message>
+</record>
+<record>
+  <date>2014-12-12T13:58:34</date>
+  <millis>1418421514348</millis>
+  <sequence>45</sequence>
+  <logger>DBAccessUpdateLogger</logger>
+  <level>INFO</level>
+  <class>com.mrm.db.DataProvider</class>
+  <method>getMovieData</method>
+  <thread>16</thread>
+  <message>Movie Data retrieved</message>
+</record>
+</log>

@@ -1,0 +1,46 @@
+Dec 12, 2014 1:55:05 PM com.mrm.handler.TransactionHandler authenticateLogin
+OFF: 132131231 : Unsuccessfull login attempt
+Dec 12, 2014 1:56:15 PM com.mrm.handler.TransactionHandler authenticateLogin
+OFF: 40000000 : Logged In
+Dec 12, 2014 1:56:29 PM com.mrm.center.ServiceProvider getAllAvailableMovies
+INFO: All available Movies retrieved
+Dec 12, 2014 1:56:29 PM com.mrm.center.ServiceProvider getReservedMovies
+INFO: Reserved Movies retrieved
+Dec 12, 2014 1:56:29 PM com.mrm.center.ServiceProvider getAllAvailableMovies
+INFO: All available Movies retrieved
+Dec 12, 2014 1:56:29 PM com.mrm.center.ServiceProvider getReservedMovies
+INFO: Reserved Movies retrieved
+Dec 12, 2014 1:56:42 PM com.mrm.center.ServiceProvider addTransaction
+INFO: Transaction Logged...1024
+Dec 12, 2014 1:56:42 PM com.mrm.handler.TransactionHandler processTransaction
+OFF:  : Transaction Success [[[Hobbit : 45], [The Dark Night Raises : 55], [Gravity : 40]] Transaction code : 1
+Dec 12, 2014 1:56:49 PM com.mrm.center.ServiceProvider getRentedMovies
+INFO: Rented Movies retrieved
+Dec 12, 2014 1:56:49 PM com.mrm.center.ServiceProvider getRentedMovies
+INFO: Rented Movies retrieved
+Dec 12, 2014 1:57:03 PM com.mrm.center.ServiceProvider addTransaction
+INFO: Transaction Logged...1024
+Dec 12, 2014 1:57:03 PM com.mrm.handler.TransactionHandler processTransaction
+OFF:  : Transaction Success [[[Twilight Saga : 20]] Transaction code : 1
+Dec 12, 2014 1:57:03 PM com.mrm.center.ServiceProvider removeHoldOnTransaction
+INFO: Removed hold on : 40000000
+Dec 12, 2014 1:57:06 PM com.mrm.center.ServiceProvider getRentedMovies
+INFO: Rented Movies retrieved
+Dec 12, 2014 1:57:06 PM com.mrm.center.ServiceProvider getRentedMovies
+INFO: Rented Movies retrieved
+Dec 12, 2014 1:57:23 PM com.mrm.center.ServiceProvider addTransaction
+INFO: Transaction Logged...1024
+Dec 12, 2014 1:57:23 PM com.mrm.handler.TransactionHandler processTransaction
+OFF:  : Transaction Success [[[Batman Returns : 0]] Transaction code : 3
+Dec 12, 2014 1:57:54 PM com.mrm.center.ServiceProvider getAllReservedMovies
+INFO: Reserved Movies retrieved
+Dec 12, 2014 1:57:54 PM com.mrm.handler.InventoryHandler getAllReservedMovies
+INFO: Reserved movies data retrieved
+Dec 12, 2014 1:57:54 PM com.mrm.center.ServiceProvider getAllAvailableMovies
+INFO: All available Movies retrieved
+Dec 12, 2014 1:58:32 PM com.mrm.center.ServiceProvider getAllReservedMovies
+INFO: Reserved Movies retrieved
+Dec 12, 2014 1:58:32 PM com.mrm.handler.InventoryHandler getAllReservedMovies
+INFO: Reserved movies data retrieved
+Dec 12, 2014 1:58:32 PM com.mrm.center.ServiceProvider getAllAvailableMovies
+INFO: All available Movies retrieved

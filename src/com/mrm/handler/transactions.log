@@ -1,0 +1,100 @@
+Dec 08, 2014 6:20:19 PM com.mrm.handler.TransactionHandler authenticateLogin
+OFF: 40000000 : Logged In
+Dec 08, 2014 6:20:24 PM com.mrm.handler.TransactionHandler processTransaction
+OFF:  : Transaction Success [[[The Dark Night Raises : 55], [Mission Impossible : 20]] Transaction code : 1
+Dec 08, 2014 6:20:34 PM com.mrm.handler.TransactionHandler processTransaction
+OFF:  : Transaction Success [[[Twilight Saga : 20]] Transaction code : 1
+Dec 08, 2014 6:20:45 PM com.mrm.handler.TransactionHandler processTransaction
+OFF:  : Transaction Success [[[Saga : 0]] Transaction code : 3
+Dec 08, 2014 6:24:24 PM com.mrm.handler.TransactionHandler authenticateLogin
+OFF: 123123 : Unsuccessfull login attempt
+Dec 08, 2014 6:26:37 PM com.mrm.handler.TransactionHandler authenticateLogin
+OFF: 400000000 : Unsuccessfull login attempt
+Dec 08, 2014 6:26:44 PM com.mrm.handler.TransactionHandler authenticateLogin
+OFF: 40000000 : Logged In
+Dec 08, 2014 6:29:01 PM com.mrm.handler.TransactionHandler processTransaction
+OFF:  : Transaction Success [[[Jurassic Park : 30], [Avatar : 25]] Transaction code : 1
+Dec 08, 2014 6:30:07 PM com.mrm.handler.TransactionHandler processTransaction
+OFF:  : Transaction Success [[[Twilight Saga : 20]] Transaction code : 1
+Dec 08, 2014 6:30:28 PM com.mrm.handler.TransactionHandler processTransaction
+OFF:  : Transaction Success [[[Hobbit 3D : 0]] Transaction code : 3
+Dec 08, 2014 6:32:28 PM com.mrm.handler.InventoryHandler getAllReservedMovies
+INFO: Reserved movies data retrieved
+Dec 08, 2014 6:51:10 PM com.mrm.handler.InventoryHandler getAllReservedMovies
+INFO: Reserved movies data retrieved
+Dec 08, 2014 8:28:55 PM com.mrm.handler.TransactionHandler authenticateLogin
+OFF: 40000000 : Logged In
+Dec 08, 2014 8:28:57 PM com.mrm.center.ServiceProvider getAllAvailableMovies
+INFO: All available Movies retrieved
+Dec 08, 2014 8:28:57 PM com.mrm.center.ServiceProvider getReservedMovies
+INFO: Reserved Movies retrieved
+Dec 08, 2014 8:28:57 PM com.mrm.center.ServiceProvider getAllAvailableMovies
+INFO: All available Movies retrieved
+Dec 08, 2014 8:28:57 PM com.mrm.center.ServiceProvider getReservedMovies
+INFO: Reserved Movies retrieved
+Dec 08, 2014 8:29:00 PM com.mrm.center.ServiceProvider addTransaction
+INFO: Transaction Logged...1024
+Dec 08, 2014 8:29:00 PM com.mrm.handler.TransactionHandler processTransaction
+OFF:  : Transaction Success [[[The Wolf of Wall Street : 45], [300 : 35]] Transaction code : 1
+Dec 08, 2014 8:29:02 PM com.mrm.center.ServiceProvider getRentedMovies
+INFO: Rented Movies retrieved
+Dec 08, 2014 8:29:02 PM com.mrm.center.ServiceProvider getRentedMovies
+INFO: Rented Movies retrieved
+Dec 08, 2014 8:29:05 PM com.mrm.center.ServiceProvider addTransaction
+INFO: Transaction Logged...1024
+Dec 08, 2014 8:29:05 PM com.mrm.handler.TransactionHandler processTransaction
+OFF:  : Transaction Success [[[Twilight Saga : 20]] Transaction code : 1
+Dec 08, 2014 8:29:05 PM com.mrm.center.ServiceProvider removeHoldOnTransaction
+INFO: Removed hold on : 40000000
+Dec 08, 2014 8:29:14 PM com.mrm.center.ServiceProvider addTransaction
+INFO: Transaction Logged...1024
+Dec 08, 2014 8:29:14 PM com.mrm.handler.TransactionHandler processTransaction
+OFF:  : Transaction Success [[[Harry Porter : 0]] Transaction code : 3
+Dec 09, 2014 3:11:56 PM com.mrm.handler.TransactionHandler authenticateLogin
+OFF: 40000000 : Logged In
+Dec 12, 2014 1:55:05 PM com.mrm.handler.TransactionHandler authenticateLogin
+OFF: 132131231 : Unsuccessfull login attempt
+Dec 12, 2014 1:56:15 PM com.mrm.handler.TransactionHandler authenticateLogin
+OFF: 40000000 : Logged In
+Dec 12, 2014 1:56:29 PM com.mrm.center.ServiceProvider getAllAvailableMovies
+INFO: All available Movies retrieved
+Dec 12, 2014 1:56:29 PM com.mrm.center.ServiceProvider getReservedMovies
+INFO: Reserved Movies retrieved
+Dec 12, 2014 1:56:29 PM com.mrm.center.ServiceProvider getAllAvailableMovies
+INFO: All available Movies retrieved
+Dec 12, 2014 1:56:29 PM com.mrm.center.ServiceProvider getReservedMovies
+INFO: Reserved Movies retrieved
+Dec 12, 2014 1:56:42 PM com.mrm.center.ServiceProvider addTransaction
+INFO: Transaction Logged...1024
+Dec 12, 2014 1:56:42 PM com.mrm.handler.TransactionHandler processTransaction
+OFF:  : Transaction Success [[[Hobbit : 45], [The Dark Night Raises : 55], [Gravity : 40]] Transaction code : 1
+Dec 12, 2014 1:56:49 PM com.mrm.center.ServiceProvider getRentedMovies
+INFO: Rented Movies retrieved
+Dec 12, 2014 1:56:49 PM com.mrm.center.ServiceProvider getRentedMovies
+INFO: Rented Movies retrieved
+Dec 12, 2014 1:57:03 PM com.mrm.center.ServiceProvider addTransaction
+INFO: Transaction Logged...1024
+Dec 12, 2014 1:57:03 PM com.mrm.handler.TransactionHandler processTransaction
+OFF:  : Transaction Success [[[Twilight Saga : 20]] Transaction code : 1
+Dec 12, 2014 1:57:03 PM com.mrm.center.ServiceProvider removeHoldOnTransaction
+INFO: Removed hold on : 40000000
+Dec 12, 2014 1:57:06 PM com.mrm.center.ServiceProvider getRentedMovies
+INFO: Rented Movies retrieved
+Dec 12, 2014 1:57:06 PM com.mrm.center.ServiceProvider getRentedMovies
+INFO: Rented Movies retrieved
+Dec 12, 2014 1:57:23 PM com.mrm.center.ServiceProvider addTransaction
+INFO: Transaction Logged...1024
+Dec 12, 2014 1:57:23 PM com.mrm.handler.TransactionHandler processTransaction
+OFF:  : Transaction Success [[[Batman Returns : 0]] Transaction code : 3
+Dec 12, 2014 1:57:54 PM com.mrm.center.ServiceProvider getAllReservedMovies
+INFO: Reserved Movies retrieved
+Dec 12, 2014 1:57:54 PM com.mrm.handler.InventoryHandler getAllReservedMovies
+INFO: Reserved movies data retrieved
+Dec 12, 2014 1:57:54 PM com.mrm.center.ServiceProvider getAllAvailableMovies
+INFO: All available Movies retrieved
+Dec 12, 2014 1:58:32 PM com.mrm.center.ServiceProvider getAllReservedMovies
+INFO: Reserved Movies retrieved
+Dec 12, 2014 1:58:32 PM com.mrm.handler.InventoryHandler getAllReservedMovies
+INFO: Reserved movies data retrieved
+Dec 12, 2014 1:58:32 PM com.mrm.center.ServiceProvider getAllAvailableMovies
+INFO: All available Movies retrieved

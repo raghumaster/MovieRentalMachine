@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><transactions>
+    <transaction code="1" id="1001">
+        <cardNumber>50000000</cardNumber>
+        <transactionStatus>Success</transactionStatus>
+        <movies>
+            <movie>
+                <name>Godzilla</name>
+                <price>40</price>
+            </movie>    
+        </movies>
+    </transaction>
+    <transaction code="3" id="1002">
+        <cardNumber>50000000</cardNumber>
+        <transactionStatus>Success</transactionStatus>
+        <movies>
+            <movie>
+                <name>Transformers</name>
+                <price/>
+            </movie>    
+        </movies>
+    </transaction>
+    <transaction code="2" id="1003">
+        <cardNumber>40000000</cardNumber>
+        <transactionStatus>Success</transactionStatus>
+        <movies>
+            <movie>
+                <name>Twilight</name>
+                <price>40</price>
+            </movie>    
+        </movies>
+    </transaction>
+    <transaction code="1" id="1004">
+        <cardNumber>60000000</cardNumber>
+        <transactionStatus>Success</transactionStatus>
+        <movies>
+            <movie>
+                <name>God Father</name>
+                <price>35</price>
+            </movie>    
+            <movie>
+                <name>Anacondas</name>
+                <price>25</price>
+            </movie>    
+        </movies>
+    </transaction>
+    <transaction code="2" id="1005">
+        <cardNumber>40000000</cardNumber>
+        <transactionStatus>Success</transactionStatus>
+        <movies>
+            <movie>
+                <name>Twilight Saga</name>
+                <price>20</price>
+            </movie>    
+        </movies>
+    </transaction>
+    <transaction code="3" id="1006">
+        <cardNumber>35000001234</cardNumber>
+        <transactionStatus>Cancelled</transactionStatus>
+        <movies>
+            <movie>
+                <name>Iron Man</name>
+                <price>40</price>
+            </movie>    
+        </movies>
+    </transaction>
+    <transaction code="2" id="1007">
+        <cardNumber>42000000248</cardNumber>
+        <transactionStatus>Success</transactionStatus>
+        <movies>
+            <movie>
+                <name>King Kong</name>
+                <price>42</price>
+            </movie>    
+        </movies>
+    </transaction>
+    <transaction code="1" id="1008">
+        <cardNumber>42000000248</cardNumber>
+        <transactionStatus>Success</transactionStatus>
+        <movies>
+            <movie>
+                <name>Batman Begins</name>
+                <price>45</price>
+            </movie>    
+        </movies>
+    </transaction>
+    <transaction code="1" id="1009">
+        <cardNumber>353500453500</cardNumber>
+        <transactionStatus>Sucess</transactionStatus>
+        <movies>
+            <movie>
+                <name>The Dark Night Raises</name>
+                <price>55</price>
+            </movie>    
+        </movies>
+    </transaction>
+    <transaction code="3" id="1010">
+        <cardNumber>7500002929</cardNumber>
+        <transactionStatus>Success</transactionStatus>
+        <movies>
+            <movie>
+                <name>Age of Empires</name>
+                <price/>
+            </movie>    
+        </movies>
+    </transaction>
+    <transaction code="3" id="1011">
+        <cardNumber>42000000248</cardNumber>
+        <transactionStatus>Success</transactionStatus>
+        <movies>
+            <movie>
+                <name>Mission Impossible 3</name>
+                <price/>
+            </movie>    
+        </movies>
+    </transaction>
+    <transaction code="1" id="1012">
+        <cardNumber>7500002929</cardNumber>
+        <transactionStatus>Failed</transactionStatus>
+        <movies>
+            <movie>
+                <name>Shashwank Redemption</name>
+                <price>40</price>
+            </movie>    
+        </movies>
+    </transaction>
+    <transaction code="2" id="1013">
+        <cardNumber>42000000248</cardNumber>
+        <transactionStatus>Failed</transactionStatus>
+        <movies>
+            <movie>
+                <name>Momento</name>
+                <price/>
+            </movie>    
+        </movies>
+    </transaction>
+    <transaction code="1" id="1014">
+        <cardNumber>6000000012</cardNumber>
+        <transactionStatus>Success</transactionStatus>
+        <movies>
+            <movie>
+                <name>Perfume</name>
+                <price>20</price>
+            </movie>    
+            <movie>
+                <name>Hobbit</name>
+                <price>45</price>
+            </movie>    
+            <movie>
+                <name>300</name>
+                <price>35</price>
+            </movie>    
+        </movies>
+    </transaction>
+    <transaction code="3" id="1015">
+        <cardNumber>6000000012</cardNumber>
+        <transactionStatus>Success</transactionStatus>
+        <movies>
+            <movie>
+                <name>The Gambler</name>
+                <price/>
+            </movie>    
+            <movie>
+                <name>Night at the Museum</name>
+                <price/>
+            </movie>      
+        </movies>
+    </transaction>
+
+<transaction code="1" id="1016"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Anacondas</name><price>25</price></movie><movie><name>Avatar</name><price>25</price></movie></movies></transaction><transaction code="1" id="1017"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Anacondas</name><price>25</price></movie><movie><name>Avatar</name><price>25</price></movie><movie><name>Shashwank Redemption</name><price>40</price></movie><movie><name>Hobbit</name><price>45</price></movie></movies></transaction><transaction code="1" id="1018"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Avatar</name><price>25</price></movie><movie><name>Avatar</name><price>25</price></movie><movie><name>Shashwank Redemption</name><price>40</price></movie></movies></transaction><transaction code="1" id="1019"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Anacondas</name><price>25</price></movie><movie><name>Anacondas</name><price>25</price></movie><movie><name>Avatar</name><price>25</price></movie><movie><name>Avatar</name><price>25</price></movie><movie><name>Avatar</name><price>25</price></movie><movie><name>Avatar</name><price>25</price></movie><movie><name>Shashwank Redemption</name><price>40</price></movie><movie><name>Shashwank Redemption</name><price>40</price></movie></movies></transaction><transaction code="1" id="1020"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Twilight Saga</name><price>20</price></movie></movies></transaction><transaction code="1" id="1021"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Hobbit</name><price>45</price></movie><movie><name>Mission Impossible</name><price>20</price></movie></movies></transaction><transaction code="1" id="1022"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>The Hurt Locker</name><price>30</price></movie><movie><name>Avatar</name><price>25</price></movie></movies></transaction><transaction code="1" id="1023"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Twilight Saga</name><price>20</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Twilight Saga</name><price>20</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Twilight Saga</name><price>20</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Twilight Saga</name><price>20</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Twilight Saga</name><price>20</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Twilight Saga</name><price>20</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>King Kong</name><price>42</price></movie><movie><name>The Dark Night Raises</name><price>55</price></movie></movies></transaction><transaction code="3" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Jurassic World</name><price>0</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Jurassic Park</name><price>30</price></movie><movie><name>The Wolf of Wall Street</name><price>45</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>The Dark Night Raises</name><price>55</price></movie><movie><name>Mission Impossible</name><price>20</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Twilight Saga</name><price>20</price></movie></movies></transaction><transaction code="3" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Saga</name><price>0</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Jurassic Park</name><price>30</price></movie><movie><name>Avatar</name><price>25</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Twilight Saga</name><price>20</price></movie></movies></transaction><transaction code="3" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Hobbit 3D</name><price>0</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>The Wolf of Wall Street</name><price>45</price></movie><movie><name>300</name><price>35</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Twilight Saga</name><price>20</price></movie></movies></transaction><transaction code="3" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Harry Porter</name><price>0</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>God Father</name><price>35</price></movie><movie><name>Godzilla</name><price>40</price></movie><movie><name>Twilight</name><price>40</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Hobbit</name><price>45</price></movie><movie><name>The Dark Night Raises</name><price>55</price></movie><movie><name>Gravity</name><price>40</price></movie></movies></transaction><transaction code="1" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Twilight Saga</name><price>20</price></movie></movies></transaction><transaction code="3" id="1024"><cardNumber>40000000</cardNumber><transactionStatus>Success</transactionStatus><movies><movie><name>Batman Returns</name><price>0</price></movie></movies></transaction></transactions>

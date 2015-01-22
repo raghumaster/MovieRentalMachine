@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><movies>
+        <movie>
+            <name>Casino Royale</name>
+            <price>20</price>
+        </movie>
+        <movie>
+            <name>Pirates of the Caribbean</name>
+            <price>30</price>
+        </movie>
+        <movie>
+            <name>Night Crawler</name>
+            <price>25</price>
+        </movie>
+        <movie>
+            <name>Jurassic Park</name>
+            <price>30</price>
+        </movie>
+        <movie>
+            <name>Mission Impossible</name>
+            <price>20</price>
+        </movie>
+        <movie>
+            <name>Interstellar</name>
+            <price>50</price>
+        </movie>
+        <movie>
+            <name>The Hurt Locker</name>
+            <price>30</price>
+        </movie>
+        <movie>
+            <name>Gravity</name>
+            <price>40</price>
+        </movie>
+        <movie>
+            <name>The Social Network</name>
+            <price>35</price>
+        </movie>
+        <movie>
+            <name>The Wolf of Wall Street</name>
+            <price>45</price>
+        </movie>
+        <movie>
+            <name>The Avengers</name>
+            <price>35</price>
+        </movie>
+        <movie>
+            <name>Slumdog Millionaire</name>
+            <price>20</price>
+        </movie>
+        <movie>
+            <name>Perfume</name>
+            <price>20</price>
+        </movie>    
+        <movie>
+            <name>Hobbit</name>
+            <price>45</price>
+        </movie>    
+        <movie>
+            <name>300</name>
+            <price>35</price>
+        </movie>
+        <movie>
+            <name>Momento</name>
+            <price>15</price>
+        </movie>
+        <movie>
+            <name>Shashwank Redemption</name>
+            <price>40</price>
+        </movie>
+         <movie>
+            <name>The Dark Night Raises</name>
+            <price>55</price>
+        </movie>
+        <movie>
+            <name>Batman Begins</name>
+            <price>45</price>
+        </movie>    
+        <movie>
+            <name>King Kong</name>
+            <price>42</price>
+        </movie> 
+        <movie>
+            <name>God Father</name>
+            <price>35</price>
+        </movie>    
+        <movie>
+            <name>Anacondas</name>
+            <price>25</price>
+        </movie> 
+        <movie>
+            <name>Twilight Saga</name>
+            <price>20</price>
+        </movie> 
+        <movie>
+            <name>Godzilla</name>
+            <price>40</price>
+        </movie>       
+        <movie>
+            <name>Twilight</name>
+            <price>40</price>
+        </movie>  
+    <movie><name>Troy</name><price>35</price></movie><movie><name>Avatar</name><price>25</price></movie><movie><name>Ice Age</name><price>25</price></movie></movies>
